@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 10%;
+}
+
+/* this is a comment */
+
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(32, 132, 139);
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav :hover {color: floralwhite;
+}
+
+/* for class use . */
+/* for id use hashtag */
+
+.nav a{
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    color:rgb(179, 231, 255);
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(219, 201, 183);
+    font-size: 20px;
+}
+
+h6 {
+    text-align: center;
+    display: flex;
+    color: rgb(39, 157, 211);
+    font-size: 15px;
+}
+
+a {
+    color: rgb(39, 157, 211);
+}
+
+/* body {
+    background-image: url("image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+* this is for an image overide for the whole site */
+
+.bg1{
+    background-image: url(image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .bg2{
+    background-image: url(image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  .bg3{
+    background-image: url(image3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .bg4{
+      background-image: url(image4.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+
+  }
+
+  .bg5{
+      background-color: black;
+  }
+
+  ul{
+    display:inline-block;
+    border:1px solid rgb(26, 122, 231);
+    padding:100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
