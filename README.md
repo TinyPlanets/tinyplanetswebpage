@@ -1,1 +1,1 @@
-# tinyplanetswebpage
+# https://tinyplanets.github.io/tinyplanetswebpage/
